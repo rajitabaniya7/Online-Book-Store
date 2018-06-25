@@ -1,0 +1,5 @@
+org\o7planning\hellorestful\WeatherRESTfulService.class
+org\o7planning\hellorestful\DAO\EmployeeDAO.class
+org\o7planning\hellorestful\MyResource.class
+org\o7planning\hellorestful\DAO\Employee.class
+org\o7planning\hellorestful\DAO\SessionUtil.class

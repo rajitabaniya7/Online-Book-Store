@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:15:39 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-1 49
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:15:40 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-2 1
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:15:41 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:15:41 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:18:25 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:21:11 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-2 52
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:21:12 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:21:13 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-4 1
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:21:13 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:21:13 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-6 3
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:42:30 +1000] "GET /HelloRESTful/rest/weather/chicago/2016-08-27 HTTP/1.1" 200 98 http-bio-8080-exec-1 59
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:42:41 +1000] "GET /HelloRESTful/rest/weather/Employee.java HTTP/1.1" 200 103 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:42:50 +1000] "GET /HelloRESTful/rest/Employee.java HTTP/1.1" 404 - http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:42:56 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:43:00 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:43:05 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [08/May/2018:22:43:06 +1000] "GET /HelloRESTful/rest/Employee HTTP/1.1" 404 - http-bio-8080-exec-10 4

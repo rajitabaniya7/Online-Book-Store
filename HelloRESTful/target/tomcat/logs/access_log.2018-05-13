@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:36:29 +1000] "GET /HelloRESTful/rest/weather/chicago/2016-08-27 HTTP/1.1" 200 97 http-bio-8080-exec-1 76
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:36:29 +1000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:36:30 +1000] "GET /HelloRESTful/rest/weather/chicago/2016-08-27 HTTP/1.1" 200 98 http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:43:13 +1000] "GET /MavenProject/api/student HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:43:27 +1000] "GET /MavenProject/ HTTP/1.1" 404 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:44:59 +1000] "GET /HelloRESTful/rest/index.jsp HTTP/1.1" 404 - http-bio-8080-exec-6 4
+0:0:0:0:0:0:0:1 - - [13/May/2018:15:45:10 +1000] "GET /HelloRESTful/rest/weather/chicago/2016-08-27 HTTP/1.1" 200 98 http-bio-8080-exec-6 3

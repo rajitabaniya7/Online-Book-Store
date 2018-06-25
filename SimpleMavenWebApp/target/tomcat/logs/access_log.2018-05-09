@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/index.jsp HTTP/1.1" 200 5355 http-bio-8899-exec-1 84
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/fontstyle/css/font-awesome.min.css HTTP/1.1" 404 1055 http-bio-8899-exec-6 4
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/css/bootstrap-theme.min.css HTTP/1.1" 304 - http-bio-8899-exec-2 27
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/css/style.css HTTP/1.1" 304 - http-bio-8899-exec-5 48
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/css/bootstrap-theme.css HTTP/1.1" 304 - http-bio-8899-exec-4 122
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/jquery.min.js HTTP/1.1" 404 1013 http-bio-8899-exec-9 4
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 1045 http-bio-8899-exec-10 0
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/bootstrap/js/customjs.js HTTP/1.1" 404 1035 http-bio-8899-exec-4 4
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/css/bootstrap.min.css HTTP/1.1" 304 - http-bio-8899-exec-3 161
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/css/bootstrap.css HTTP/1.1" 304 - http-bio-8899-exec-7 192
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/images/logo.jpg HTTP/1.1" 304 - http-bio-8899-exec-3 24
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/bootstrap/js/bootstrap.min.js HTTP/1.1" 404 1045 http-bio-8899-exec-7 1
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/bootstrap/js/customjs.js HTTP/1.1" 404 1035 http-bio-8899-exec-7 1
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:23 +1000] "GET /SimpleMavenWebApp/images/caro2.jpg HTTP/1.1" 304 - http-bio-8899-exec-3 12
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:24 +1000] "GET /SimpleMavenWebApp/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1067 http-bio-8899-exec-3 1
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:24 +1000] "GET /SimpleMavenWebApp/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1065 http-bio-8899-exec-3 0
+0:0:0:0:0:0:0:1 - - [09/May/2018:07:50:24 +1000] "GET /SimpleMavenWebApp/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1063 http-bio-8899-exec-3 0
